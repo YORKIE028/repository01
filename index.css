@@ -1,0 +1,17 @@
+.div {
+  font-size: 29px;
+  height: 90px;
+  width: 100%;
+  color: red;
+  background-color: green;
+  margin: 10px;
+}
+
+#para-id {
+  background-color: blue;
+}
+
+body {
+ margin: 1%;
+  
+}
